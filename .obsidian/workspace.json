@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "63baa5888b4575f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "570ebef449b320d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c5ab3641781932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Cert/Analyze Network Layer Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c745af5b9b21153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Cert/Cyber Incident Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69862a1c280e0e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a30db8aa1470f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Cert/Demo Security Audit/Demo Security Audit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c54fe44882d2932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Cert/Demo Security Audit/Demo Security Audit Communicating Risk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3f717922c824842",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bdfeb680a29028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd974208b7a03eee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08ab7f078e910b24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "250a63b83b9d7d41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7aa653ae653194b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8920918250107a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512dbd7da32d5c92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google Cybersecurity Cert/Cyber Incident Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8e907a00488b4e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google Cybersecurity Cert/Cyber Incident Report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b0c3eb9314f6630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd5211df42016dda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google Cybersecurity Cert/Cyber Incident Report.md"
+              }
+            }
+          },
+          {
+            "id": "94a41617e7e7e8c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c745af5b9b21153",
+  "lastOpenFiles": [
+    "Google Cybersecurity Cert/Demo Security Audit/Demo Security Audit.md",
+    "Personal Statement.md",
+    "Google Cybersecurity Cert/Analyze Network Layer Communication.md",
+    "Google Cybersecurity Cert/Cyber Incident Report.md",
+    "Google Cybersecurity Cert",
+    "Google Cybersecurity Cert/Demo Security Audit/Demo Security Audit Communicating Risk.md",
+    "Media/Pasted image 20230904025448.png",
+    "Google Cybersecurity Cert/Demo Security Audit",
+    "Media",
+    "Media/Pasted image 20230904025530.png",
+    "Media/Pasted image 20230904025349.png",
+    "Media/Pasted image 20230904025300.png"
+  ]
+}
